@@ -2,7 +2,7 @@
 
 Trabalhei por vários anos como **designer gráfico**, **diagramador** e **redator**, atuando em projetos que exigiam sensibilidade estética, pensamento estratégico e precisão na comunicação.
 
-Atualmente, estou estudando e trabalhando com **QA Manual**, focado na garantia da qualidade de aplicativos e plataformas. Tenho interesse em boas práticas de usabilidade, documentação de bugs e testes funcionais.
+Atualmente, estou estudando e trabalhando com **QA**, focado na garantia da qualidade de aplicativos e plataformas. Tenho interesse em boas práticas de usabilidade, documentação de bugs e testes funcionais.
 
 ---
 
