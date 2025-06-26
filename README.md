@@ -23,6 +23,5 @@ Sou escritor nas horas vagas — misturo ficção com experiências pessoais par
 ---
 
 ### 📬 Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/SEU-LINK-AQUI)  
-[![Email](https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail)](mailto:seuemail@exemplo.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/erick-oliveira-chagas-a95a69157/))  
+[![Email](https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail)](mailto:erickoliveirachagas@gmail.com)  
