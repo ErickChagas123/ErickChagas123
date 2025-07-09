@@ -37,5 +37,5 @@ Atualmente, estou estudando e trabalhando com **QA**, focado na garantia da qual
 ---
 
 ### 📬 Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/erick-oliveira-chagas-a95a69157/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/erick-oliveira-chagas-a95a69157/)](https://www.linkedin.com/in/erick-oliveira-chagas-a95a69157/))
 [![Email](https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail)](mailto:erickoliveirachagas@gmail.com)  
