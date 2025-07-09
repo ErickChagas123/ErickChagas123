@@ -14,36 +14,18 @@ Atualmente, estou estudando e trabalhando com **QA**, focado na garantia da qual
 
 ## 🛠️ Minhas ferramentas
 
-## 🛠️ Minhas ferramentas
 
-Aqui estão as principais ferramentas que utilizo nos meus projetos, com uma breve descrição de como elas fazem parte do meu fluxo de trabalho:
+<p align="left">
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/trello.svg" alt="Trello"/>
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/notion.svg" alt="Notion"/>
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/jira.svg" alt="Jira"/>
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/figma.svg" alt="Figma"/>
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" alt="GitHub"/>
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/postman.svg" alt="Postman"/>
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/pycharm.svg" alt="PyCharm"/>
+</p>
 
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=social&logo=trello&logoColor=blue)](https://trello.com)  
-Utilizo o **Trello** para organizar tarefas, acompanhar o andamento de projetos em equipe e gerenciar cronogramas com quadros e etiquetas personalizadas.
-
-[![Notion](https://img.shields.io/badge/Notion-000000?style=social&logo=notion&logoColor=white)](https://www.notion.so)  
-Uso o **Notion** como um segundo cérebro digital: documentação de projetos, anotações de reuniões, banco de testes e organização pessoal.
-
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=social&logo=jira&logoColor=blue)](https://www.atlassian.com/software/jira)  
-Tenho familiaridade com o **Jira** para acompanhar bugs e tarefas técnicas, especialmente em times com metodologia ágil (Scrum/Kanban).
-
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=social&logo=figma&logoColor=F24E1E)](https://www.figma.com)  
-No **Figma**, desenvolvo protótipos interativos, wireframes e testes de usabilidade. Também aplico princípios de UX/UI para validar fluxos e interfaces.
-
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=social&logo=adobephotoshop&logoColor=31A8FF)](https://www.adobe.com/br/products/photoshop.html)  
-Uso o **Photoshop** para edição de imagens, retoques visuais e tratamento de recursos gráficos utilizados em interfaces e protótipos.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=white)](https://github.com)  
-Tenho conhecimento em **GitHub** para versionamento de projetos, organização de repositórios, abertura de issues e acompanhamento de pull requests.
-
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=social&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com)  
-O **VS Code** é meu editor de código favorito para navegar entre arquivos, revisar scripts e até realizar testes manuais com extensões.
-
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=social&logo=postman&logoColor=FF6C37)](https://www.postman.com)  
-Com o **Postman**, faço testes de API, envio requisições GET/POST e valido respostas para garantir o funcionamento esperado dos endpoints.
-
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=social&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
-No **PyCharm**, pratico scripts e automações em Python, especialmente para testes e pequenos projetos de QA e análise de dados.
+</p>
 
 
 
