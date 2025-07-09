@@ -17,9 +17,6 @@ Atualmente, estou estudando e trabalhando com **QA**, focado na garantia da qual
 - Testes automatizados  
 - Boas práticas de UX e acessibilidade  
 
-✨ **Fato divertido:**  
-Sou escritor nas horas vagas — misturo ficção com experiências pessoais para criar histórias intensas, emocionais e às vezes... letais (mas só no papel, prometo 😅).
-
 ---
 
 ### 📬 Entre em contato comigo:
