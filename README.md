@@ -16,8 +16,7 @@ Atualmente, estou estudando e trabalhando com **QA**, focado na garantia da qual
 
 Aqui estão algumas das ferramentas que utilizo no meu dia a dia:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+<p align="left"><img src="https://img.shields.io/badge/Figma-White?style=flat&logo=figma&logoColor=F24E1E"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
