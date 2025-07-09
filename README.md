@@ -41,4 +41,5 @@ Atualmente, estou estudando e trabalhando com **QA**, focado na garantia da qual
   <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" alt="LinkedIn"/>
 </a>
 
-[![Email](https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail)](mailto:erickoliveirachagas@gmail.com)  
+[![Email]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-oliveira-chagas-a95a69157/)
+)](mailto:erickoliveirachagas@gmail.com)  
